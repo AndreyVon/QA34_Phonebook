@@ -12,6 +12,7 @@ public class AddContactTests extends TestBase {
         type(By.name("email"), "ggipoel455@gmail.com");
         type(By.name("password"), "Iamlovekedy21$");
         click(By.cssSelector("[name='login']"));
+        //gffgfgfgfgfg
 
     }
     @Test
